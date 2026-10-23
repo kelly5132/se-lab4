@@ -1,0 +1,3 @@
+SUCCESS  # <- GT4500
+SUCCESS  # <- both fired
+FAIL     # <- nothing to fire

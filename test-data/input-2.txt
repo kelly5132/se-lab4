@@ -1,0 +1,6 @@
+# TC2: SINGLE shots alternate between the stores
+# primary never fails, secondary always fails
+GT4500,10,0,10,1.0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary (fails)
+TORPEDO,SINGLE  # primary again

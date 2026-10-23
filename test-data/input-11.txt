@@ -1,0 +1,3 @@
+# TC11 (coverage): ALL with an empty primary store
+GT4500,0,0,1,0
+TORPEDO,ALL

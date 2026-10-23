@@ -1,0 +1,4 @@
+# TC5: if the fired store fails, the other store is not tried
+# primary always fails, secondary never fails
+GT4500,10,1.0,10,0
+TORPEDO,SINGLE  # primary fails, secondary must not be fired
