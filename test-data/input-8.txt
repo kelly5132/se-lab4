@@ -1,0 +1,3 @@
+# TC8: ALL fails if neither store fires
+GT4500,10,1.0,10,1.0
+TORPEDO,ALL

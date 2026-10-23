@@ -1,0 +1,4 @@
+# TC3: secondary is next in line but empty -> primary is fired again
+GT4500,2,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # secondary empty -> primary

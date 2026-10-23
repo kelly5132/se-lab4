@@ -1,0 +1,4 @@
+# TC1: the first SINGLE shot is fired from the primary store
+# primary never fails, secondary always fails -> SUCCESS proves the primary fired
+GT4500,1,0,1,1.0
+TORPEDO,SINGLE  # primary fires

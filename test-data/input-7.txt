@@ -1,0 +1,3 @@
+# TC7: ALL succeeds if at least one store fires (primary fails)
+GT4500,10,1.0,10,0
+TORPEDO,ALL
