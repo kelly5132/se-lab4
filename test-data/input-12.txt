@@ -1,0 +1,3 @@
+# TC12 (coverage): ALL with an empty secondary store
+GT4500,1,0,0,0
+TORPEDO,ALL

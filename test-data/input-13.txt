@@ -1,0 +1,4 @@
+# TC13 (coverage): ALL until both stores are empty
+GT4500,1,0,1,0
+TORPEDO,ALL  # both fire
+TORPEDO,ALL  # both empty

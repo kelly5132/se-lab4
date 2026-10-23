@@ -1,0 +1,4 @@
+# TC9 (coverage): SINGLE until both stores are empty, last fired was primary
+GT4500,1,0,0,0
+TORPEDO,SINGLE  # primary
+TORPEDO,SINGLE  # both empty
